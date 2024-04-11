@@ -2,8 +2,6 @@
 
 Custom recipes for Beul-aithris Minetest Server.
 
-![Screenshot of mod showing a recipe.](screenshot.png)
-
 Just use the recipes in game.
 
 ## Credit
